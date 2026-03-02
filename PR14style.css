@@ -1,0 +1,29 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.container {
+    width: 50%;
+    height: 30%;
+    background-color: lightblue;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.box {
+    width: 50px;
+    height: 50px;
+    background-color: coral;
+    margin: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
